@@ -27,7 +27,7 @@ const Hero = () => {
                 <span>I'm Maaz Zarif,</span> MERN Stack developer based in Pakistan.
             </h1>
             <p ref={pRef} className={pClass}>
-                I am a frontend React js developer from Islamabad, Pakistan with 2 years of experience in multiple projects.
+                I am a jibran frontend React js developer from Islamabad, Pakistan with 2 years of experience in multiple projects.
             </p>
             <div className="hero-action">
                 <div ref={connectRef} className={`hero-connect ${connectClass}`}>

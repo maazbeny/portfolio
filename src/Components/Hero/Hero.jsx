@@ -24,7 +24,7 @@ const Hero = () => {
         <div id='home' className='hero'>
             <img className='profile-pic' src={profile_img} alt="Profile" />
             <h1 ref={h1Ref} className={h1Class}>
-                <span>I'm Maaz Zarif,</span> MERN Stack developer based in Pakistan.
+                <span>I'm z Zarif,</span> MERN Stack developer based in Pakistan.
             </h1>
             <p ref={pRef} className={pClass}>
                 I am a frontend React js developer from Islamabad, Pakistan with 2 years of experience in multiple projects.
